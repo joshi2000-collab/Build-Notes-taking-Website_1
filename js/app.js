@@ -1,4 +1,5 @@
  
+ 
 console.log("Welcome to notes app. This is app.js");
 showNotes();
 
@@ -81,3 +82,10 @@ search.addEventListener("input", function(){
     })
 })
 
+/*
+Further Features:
+1. Add Title
+2. Mark a note as Important
+3. Separate notes by user
+4. Sync and host to web server 
+*/ 
